@@ -1,0 +1,57 @@
+html {
+  background-color:black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.topheader {
+  color:white;
+  text-align: center;
+  font-size:50px;
+}
+
+.download {
+  color: Aquamarine;
+  font-size:16px;
+  text-align: center;
+  display: block;
+}
+
+
+.travelguide {
+  font-weight:300;
+  color:white;
+  font-size:42px;
+  text-align: center;
+}
+
+.places {
+  color:gray;
+  text-align: center;
+  font-size:21px;
+}
+
+.campimage {
+  display: block;
+  margin:0 auto;
+  margin-bottom:25px;
+}
+
+.phoneicon {
+  display: block;
+  margin: 0 auto;
+}
+
+.comingsoon {
+  font-weight:300;
+  color:white;
+  font-size:42px;
+  text-align: center;
+}
+
+.copyright {
+   color:gray;
+   font-size:21px;
+   display:block;
+   text-align: right;
+}
