@@ -8,6 +8,7 @@ html {
   color:white;
   text-align: center;
   font-size:50px;
+  font-weight: normal;
 }
 
 .download {
@@ -17,6 +18,12 @@ html {
   display: block;
 }
 
+.download1 {
+  color: Aquamarine;
+  font-size:16px;
+  text-align: center;
+  display: block;
+}
 
 .travelguide {
   font-weight:300;
